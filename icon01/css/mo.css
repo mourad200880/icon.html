@@ -1,0 +1,47 @@
+*{
+	margin:0;
+	padding: 0; 
+}
+
+#container{
+	width: 900px; 
+	height: 800px;
+	background-color: grey; 
+	margin-right: auto; 
+	margin-left: auto; 
+
+}
+
+#header{
+	height: 150px; 
+	background-color: green; 
+
+}
+#center{
+	width: 400px; 
+	height: 400px; 
+	background-color: blue; 
+	float: left;
+
+
+}
+
+#left{
+	width: 250px; 
+	height: 400px; 
+	background-color: red; 
+	float: left;
+
+
+}
+#right{
+	width: 250px; 
+	height: 400px; 
+	background-color: red; 
+	float: left;
+}
+#footer{
+	height: 250px; 
+	background-color: yellow;
+	clear: both; 
+}

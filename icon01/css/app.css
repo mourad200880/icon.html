@@ -1,0 +1,72 @@
+/*
+.container
+   .header
+   .nav
+   .left
+   .center
+   .right
+   .cat
+   .footer
+*/
+
+*{
+	margin: 0; 
+    padding: 0; 
+}
+.container{
+	width: 1200px;
+	height: 800px;
+	background: grey;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+}
+
+
+.container .header{
+	height: 150px;
+	background-color: yellow;
+}
+
+.container .nav{
+	height: 70px;
+	background-color: brown;
+}
+
+
+.container .left{
+	width: 300px;
+	height: 400px;
+	background-color: #9b59b6;
+	float: left;
+}
+
+.container .center{
+	width: 600px;
+	height: 400px;
+	background-color: #e67e22;
+	float: left;
+}
+
+.container .right{
+	width: 300px;
+	height: 400px;
+	background-color: #1abc9c;
+	float: left;
+}
+
+
+.container .cat{
+	width: 400px;
+	height: 250px;
+	background-color: #95a5a6;
+	float: left;
+}
+
+.container .footer{
+	height: 90px;
+	background-color: #3498db;
+	clear: both;
+}
+
+Web Deve

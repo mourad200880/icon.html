@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	width: 1200px;
+	height: 800px;
+	margin: auto;
+	background-color: #bdc3c7;
+}
+
+.boxh{
+	width: 398px;
+	height: 150px;
+	background-color: #3498db;
+	float: left;
+	margin-right: 2px;
+	margin-bottom: 5px;
+}
+
+.boxl{
+	width: 398px;
+	height: 200px;
+	background-color: #e67e22;
+	float: left;
+	margin-right: 2px;
+	margin-bottom:  5px;
+}
+
+.boxr{
+	width: 800px;
+	height: 200px;
+	background-color: #f1c40f;
+	float: left;
+		margin-bottom:  5px;
+
+}
+
+.boxc{
+	height: 250px;
+	background-color: #f39c12;
+	clear: both;
+		margin-bottom:  5px;
+
+
+}
+
+.box{
+	width: 398px;
+	height: 120px;
+	background-color: #9b59b6;
+	float: left;
+	margin-right: 2px;
+}

@@ -1,0 +1,107 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container{
+	width: 1200px; 
+	height: 800px; 
+	background-color: #092d4b; 
+	margin: auto; 
+
+} 
+
+.header{
+	height: 100px; 
+     
+
+
+}
+.nav{
+	height: 70px; 
+	background-color: #c7ecee;
+	margin: auto;  
+
+
+}
+.nav ul{
+	width: 600px; 
+	margin: auto;
+	list-style: none;
+
+
+}
+.nav ul li{
+	float: left;
+	line-height: 70px; 
+	margin-right: 10px; 
+	padding: 7px; 
+}
+.nav ul li a{
+	padding: 7px; 
+	text-decoration: none;
+	color: #30336b;
+	font-size: 25px; 
+}
+.nav ul li a:hover{
+	background-color: red; 
+	font-weight: bold;
+	font-size: 28px;
+	color: white;
+}
+.icon{
+	height: 500px; 
+	margin-top: 150px;  
+	text-align: center;
+
+}
+.icon01{
+	width: 240px; 
+	height: 200px; 
+	border: 2px solid #2c3e50; 
+	float: left;
+	margin-top: 5px; 
+	margin-right: 25px;
+	margin-left: 25px ;
+	margin-bottom: 5px;
+	font-size: 50px;
+	padding: 25px;     
+}
+.icon01 .fa-address-book{
+	color: red;
+	font-size: 75px;
+}
+.icon01 .fa-shopping-bag{
+	color: #c23616;
+	font-size: 75px;
+	margin-top: 10px; 
+}
+.icon01 .fa-glass-martini{
+	color:#e67e22;
+	font-size: 75px;
+	margin-top: 5px;  
+}
+.icon01 .fa-car{
+	color: #eb4d4b;
+	font-size: 75px; 
+	margin-top: 5px; 
+}
+.icon01 .fa-wrench{
+	color: #686de0;
+	font-size: 75px; 
+	margin-top: 5px; 
+}
+.icon01 .fa-futbol{
+	color: #bdc3c7;
+	font-size: 75px; 
+	margin-top: 5px; 
+}
+.icon01 h3{
+	font-size: 15px;
+	margin-top: 30px; 
+
+}
+
+.icon01:nth-child(n){
+	background-color: white;
